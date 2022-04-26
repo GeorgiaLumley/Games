@@ -191,7 +191,7 @@
     },
     "3:5": {
         "answer": 1,
-        "value": null,
+        "value": 1,
         "startingValue": 1
     },
     "4:5": {
@@ -256,7 +256,7 @@
     },
     "7:6": {
         "answer": 2,
-        "value": null,
+        "value": 2,
         "startingValue": 2
     },
     "8:6": {
